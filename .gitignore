@@ -1,0 +1,54 @@
+# Dart package-specific files
+.packages
+.pub-cache/
+.pub/
+/build/
+.dart_tool/
+
+# Flutter specific files
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+
+# iOS-specific files
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/GeneratedPluginRegistrant.*
+
+# macOS-specific files
+macos/Flutter/Flutter.framework/
+macos/Flutter/GeneratedPluginRegistrant.*
+
+# Android specific files
+android/.gradle/
+android/app/proguard-rules.pro
+android/app/*.keystore
+
+# Web specific files
+web/*.js
+web/*.js.map
+web/*.css
+
+# VS Code files
+.vscode/
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# General IDE files
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Generated files
+*.lock
+*.bak
+*.pid
+*.seed
+
+# Firebase keys or other sensitive files
+*.json
